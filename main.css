@@ -1,0 +1,41 @@
+body {
+    background-color: White;
+}
+
+.header1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+    color: Black;
+}
+
+.para1 {
+    font-family: 'Indie Flower', cursive;
+}
+
+.blog1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.mainp {
+    font-family: 'Indie Flower', cursive;
+}
+
+.mainp {
+    font-size: 25px;
+}
+
+.pic1 {
+    float:left;
+}
+
+.mainpp {
+    font-family: 'Indie Flower', cursive;
+}
+
+.mainpp {
+    font-size: 25px;
+    text-align: center;
+}
