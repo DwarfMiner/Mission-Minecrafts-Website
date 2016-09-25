@@ -47,6 +47,18 @@ a:link, a:visited, a:active {
     font-size: 55px;
 }
 
+.heade {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.imgu {
+    color: white;
+    font-size: 55px;
+    text-align: center;
+}
+
 .main {
     position: absolute;
     text-align: center;
@@ -90,4 +102,22 @@ a:link, a:visited, a:active {
 .down1 {
     float: right;
     font-size: 70px;  
+}
+
+.bgjd {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.bgjd {
+    float: left;
+}
+
+.bgj {
+ font-size: 40px
+}
+
+.bgj a:link, .bgj a:visited, .bgj a:active {
+    color: white;
 }
