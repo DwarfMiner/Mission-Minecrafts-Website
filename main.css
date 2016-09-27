@@ -110,14 +110,25 @@ a:link, a:visited, a:active {
     font-size: 40px;
 }
 
-.bgjd {
-    float: left;
-}
-
 .bgj {
- font-size: 40px
+    text-align: center;
+    font-size: 40px;
 }
 
 .bgj a:link, .bgj a:visited, .bgj a:active {
     color: white;
+}
+
+.omh {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bgjh {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
 }
