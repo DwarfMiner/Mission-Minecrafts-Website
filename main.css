@@ -79,6 +79,13 @@ a:link, a:visited, a:active {
 }
 
 .new {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.news {
+    color: white;
     text-align: center;
     font-size: 25px;
 }
@@ -110,13 +117,12 @@ a:link, a:visited, a:active {
     font-size: 40px;
 }
 
-.bgj {
-    text-align: center;
-    font-size: 40px;
+.box2 {
+    display: inline-block;
 }
 
-.bgj a:link, .bgj a:visited, .bgj a:active {
-    color: white;
+.box3 {
+    display: inline-block;
 }
 
 .omh {
