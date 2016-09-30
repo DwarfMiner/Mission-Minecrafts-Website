@@ -85,6 +85,12 @@ a:link, a:visited, a:active {
     font-size: 25px;
 }
 
+.newh {
+    color: white;
+    text-align: center;
+    font-size: 95px;
+}
+
 .news {
     color: white;
     text-align: center;
